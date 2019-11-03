@@ -18,7 +18,7 @@ Installation instructions:
 3. Download and set up GitHub
 4. Download and set up Filezilla
 
-Usage
+Usage:
 The website is used to update the goings on of Capra Cinemas. Movie art, movie listings info and cost of movies must be updated at least once weekly, and sometimes more often based on what events are upcoming, such as running older movies on special showings. 
 Credits:
 Created by Daniel LaMarche, Daniel is a student at Rasmussen College working towards his BS in Software Development.
