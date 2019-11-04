@@ -4,39 +4,66 @@ Project name: Capra Cinemas
 
 Description: My site is a website for a movie theater, to learn about what movies are showing, events, concessions available as well as buy tickets online and a contact page. This page was created for Christopher Mattie’s CIS3801C Section 01 Fundamentals of Mobile Web Application Development course.
 
-Table of Contents: 
+
+Table of Contents:
+
 Homepage
+
 Showtimes
+
 Order Tickets
+
 Concessions
+
 Events
+
 Contact Us
+
 
 Installation instructions:
 
+
 1. Create and configure a Bitnami LAMP server in Azure.
+
+
 Create a Storage Account
 
+
 ●	Click +New located at the top left corner of your dashboard above the icons.
+
 ●	A pane titled New opens.
+
 ●	Type the word Storage in the filter text box and press Enter.
+
 ●	A new pane opens titled Storage.
+
 ●	Click on Storage account (blob, file, table, queue).
+
 ●	A new pane open titled Create storage account.
+
 ●	Click Create.
+
 ●	Type a Name for the storage account in the Name text box (must be all small case).
+
 ●	Make sure:
+
 ●	Deployment model is Resource manager.
+
 ●	Account kind is General purpose.
+
 ●	Performance is Standard.
+
 ●	Important: Change Replication to Locally-redundant storage (LRS).
+
 ●	Make sure:
 ○	Storage service encryption is Disabled.
 ●	For Resource group choose the Create new radio button.
 ●	Type a unique name in the Resource group text box.
 ●	Important: Make sure Location is Central US.
 ●	Check the Pin to dashboard option.
+
 ●	Click Create.
+
 
 Deploy a LAMP Virtual Server
 
