@@ -13,6 +13,7 @@ Events
 Contact Us
 
 Installation instructions:
+
 1. Create and configure a Bitnami LAMP server in Azure.
 Create a Storage Account
 
